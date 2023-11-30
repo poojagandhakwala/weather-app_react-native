@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Weather_app",
+    "slug": "Weather_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Weather_app"
+}
